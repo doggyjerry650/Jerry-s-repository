@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509259458 source:c:\users\jerry\desktop\c++\test\main.cpp
+	<iostream>
+	<WinSock2.h>
+	<thread>
+	<assert.h>
+
